@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/scrollView_vedio"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/text_vedio"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="120dp"
+            android:hint="Text"
+            android:maxLines="1"
+            android:textSize="@dimen/_60sdp" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/dot" />
+    <ImageView
+        android:id="@+id/back"
+        android:layout_width="@dimen/_20sdp"
+        android:layout_margin="@dimen/_5sdp"
+        android:layout_height="@dimen/_20sdp"
+        android:src="@drawable/back" />
+</RelativeLayout>

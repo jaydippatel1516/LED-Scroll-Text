@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="txtlight">#B6B6B6</color>
+    <color name="indicatior">#3E3E3E</color>
+    <color name="colortxt">#FF00D2</color>
+    <color name="allbg">#494749</color>
+    <color name="topbg">#19056E</color>
+
+    <color name="colorTitleText">#46caca</color>
+    <color name="colorButton">#3c3c3c</color>
+    <color name="txtdsel">#5F5F5F</color>
+    <color name="bg">#323232</color>
+    <color name="relbg">#202020</color>
+
+</resources>
